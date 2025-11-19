@@ -1,3 +1,5 @@
+google sheet link:
+https://docs.google.com/spreadsheets/d/1N9xDaAXGb3AhaAbTwdsVAbO9RN7BmxqHJO4_nHScsRE/edit?usp=drive_link 
 Output:<img width="1491" height="739" alt="Screenshot 2025-11-17 175852" src="https://github.com/user-attachments/assets/4dce177c-ab2b-425a-841d-30079208b94a" />
 <img width="1014" height="574" alt="Screenshot 2025-11-17 175837" src="https://github.com/user-attachments/assets/e4c17b80-7a7a-4f46-84c0-86670bf5a32e" />
 <img width="1017" height="577" alt="Screenshot 2025-11-17 175833" src="https://github.com/user-attachments/assets/1f4b01ef-ae16-4af5-a99b-07757949ceb7" />
